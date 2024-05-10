@@ -3,7 +3,7 @@ import Library.*;
 public class Main {
             public static void main(String[] args) {
 
-                System.out.println("Gestor de Biblioteca");
+                System.out.println("Gestor de Biblioteca!");
 
                 // Crear un nuevo usuario
                 Usuario user = new Usuario();
